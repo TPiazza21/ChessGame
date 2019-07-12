@@ -1,2 +1,2 @@
 # ChessGame
-High School Senior Project (2017), Chess Artificial Intelligence which uses Alpha Beta Minimax to play chess.
+High School Senior Project (2017), Chess Artificial Intelligence which uses Alpha Beta Minimax to play chess. I taught myself Python to create this project, and watched lecture videos from an MIT lecture series to understand how to adapt the alpha beta pruning method. I also read the book Computers, Chess, and Cognition https://www.springer.com/gp/book/9781461390824 to understand some basic ideas behind automatdd chess players and chess strategy.
